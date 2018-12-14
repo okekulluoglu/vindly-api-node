@@ -1,0 +1,43 @@
+
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:31:54.363Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:31:55.142Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:33:26.890Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:33:27.689Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:35:50.509Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:35:51.289Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:39:06.451Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:39:07.209Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:39:54.370Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:39:55.129Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:53:45.293Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:53:46.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:54:03.800Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:54:04.664Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:54:26.310Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:54:27.118Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:56:10.451Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:56:11.226Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T12:58:11.071Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T12:58:11.845Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:00:30.060Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:00:30.848Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:02:04.862Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:02:05.646Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:04:27.536Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:04:28.321Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:04:50.957Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:04:51.701Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:05:08.555Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:05:09.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-12-13T13:06:01.796Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-13T13:06:02.584Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-12-14T05:24:55.210Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-14T05:24:56.051Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-12-14T07:15:44.688Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-14T07:15:45.551Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-12-14T08:35:59.082Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-14T08:35:59.880Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-12-14T10:43:17.403Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-14T10:43:18.205Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-12-14T11:44:33.258Z"}
+{"level":"info","message":"Connected to mongodb://okekulluoglu:Ozzy%217986@reactappdb-shard-00-00-d40ln.mongodb.net:27017/vidly?ssl=true&replicaSet=reactappdb-shard-0&authSource=admin&retryWrites=true...","timestamp":"2018-12-14T11:44:34.185Z"}
